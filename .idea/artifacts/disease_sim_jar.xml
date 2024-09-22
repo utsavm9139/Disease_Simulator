@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="disease_sim:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/disease_sim_jar</output-path>
+    <root id="archive" name="disease_sim.jar">
+      <element id="module-output" name="disease_sim" />
+    </root>
+  </artifact>
+</component>
